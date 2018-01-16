@@ -1,17 +1,17 @@
 # Site settings
-title: 吾心已无 Blog
-SEOTitle: 吾心已无的博客 | WY Blog
+title: shadow wu's Blog
+SEOTitle: 影梧的博客 | WY Blog
 header-img: img/post-bg-desk.jpg
 email: 2743508034@qq.com
 description: "Every failure is leading towards success."
-keyword: "WY, WY Blog, 吴影的博客, wuying, 吴影, iOS, Apple, iPhone"
+keyword: "SW, SW Blog, 影梧的博客, shadowwu, 影梧, shadow wu, Apple, iPhone"
 url: "https://wuxinyiwu.github.io"          # your host, for absolute URL
 baseurl: "/"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/wuxinyiwu/wuxinyiwu.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "欢迎来到吴影的博客空间，祝您玩的愉快!"
+sidebar-about-description: "欢迎来到影梧的博客空间，祝您玩的愉快!"
 sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
