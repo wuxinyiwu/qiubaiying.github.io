@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 77fa53ba8dfdc56e6cce #f2c84e7629bb1446c1a4   #生成的clientID
-  clientSecret: 631b639579af79a67a1b497785cad6a38ba62610  #同上
+  clientID: 2c0a94948c0c4aeb81fe #f2c84e7629bb1446c1a4   #生成的clientID
+  clientSecret: 8fb9801dfeefab94fa7d3b65ca6e6ec10a183841  #同上
   repo: wuxinyiwu.github.io    #仓库名称
   owner: wuxinyiwu    #github用户名
   admin: wuxinyiwu
@@ -78,7 +78,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: shadowwu.club               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
