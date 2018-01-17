@@ -62,12 +62,12 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 2c0a94948c0c4aeb81fe #f2c84e7629bb1446c1a4   #生成的clientID
+  clientID: 2c0a94948c0c4aeb81fe  #生成的clientID
   clientSecret: 8fb9801dfeefab94fa7d3b65ca6e6ec10a183841  #同上
   repo: wuxinyiwu.github.io    #仓库名称
   owner: wuxinyiwu    #github用户名
   admin: wuxinyiwu
-  distractionFreeMode: false #是否启用类似FB的阴影遮罩
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
